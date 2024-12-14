@@ -1,5 +1,61 @@
-body{
+/* comment out */
+
+/* Navigation Links */
+nav ul li{
+	text-align: center;
+	font-family: "Ephesis", cursive;
+	font-size: 40px;
+	list-style-type: none;
+	letter-spacing: 3.5px;
+	display: inline-block;
+	margin: 0 80px;
+}
+/*nav ul li a{
+	text-decoration: none;
+	color: #000000;
+}
+nav ul li a:hover{
+	color: #FF8DA1;
+}*/
+a{
+	text-decoration: none;
+	color: #000000;
+}
+a:hover{
+	color: #FF8DA1;
+}
+/* Outline Bordering Navigation Section */
+#top-line{
+	position: absolute;
+	top: 150px;
+	left: 40px;
+	width: 95%;
+}
+#vline1{
+	position:absolute;
+	top: 70px;
+	left: 340px;
+}
+#vline2{
+	position:absolute;
+	top: 70px;
+	left: 635px;
+}
+#vline3{
+	position:absolute;
+	top: 70px;
+	left: 970px;
+}
+#vline4{
+	position:absolute;
+	top: 70px;
+	left: 1265px;
+}
+/* Homepage Substance */
+main{
 	text-align: center;
 	font-family: EB Garamond;
 	font-size: 20px;
+	position:relative;
+	top:130px;
 }
