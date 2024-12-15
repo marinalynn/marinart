@@ -52,13 +52,13 @@ a:hover{
 	left: 1265px;
 }
 /* Homepage Substance */
-#pic1{
+#fan1{
 	position:absolute;
 	top: 200px;
-	left: 100px;
+	left: 50px;
 	display: block;
 }
-#pic2{
+#fan2{
 	margin-left: auto;
 	margin-right: auto;
 	position: absolute;
@@ -66,64 +66,64 @@ a:hover{
 	left: 635px;
 	display: block;
 }
-#pic3{
+#fan3{
 	position:absolute;
-	top: 200px;
-	right: 190px;
+	top: 240px;
+	right: 50px;
 	display: block;
 }
-#pic4{
+#fan4{
 	position:absolute;
-	top: 800px;
-	left: 100px;
+	top: 700px;
+	left: 150px;
 	display: block;
 }
-#pic5{
+#fan5{
 	margin-left: auto;
 	margin-right: auto;
 	position: absolute;
-	top: 800px;
-	left: 615px;
+	top: 700px;
+	left: 650px;
 	display: block;
 }
-#pic6{
+#fan6{
 	position:absolute;
-	top: 800px;
-	right: 190px;
+	top: 700px;
+	right: 250px;
 	display: block;
 }
-#pic7{
+#fan7{
 	position:absolute;
-	top: 1400px;
+	top: 1300px;
 	left: 100px;
 	display: block;
 }
-#pic8{
+#fan8{
 	margin-left: auto;
 	margin-right: auto;
 	position: absolute;
-	top: 1400px;
-	left: 590px;
+	top: 1300px;
+	left: 550px;
 	display: block;
 }
-#pic9{
+#fan9{
 	position:absolute;
-	top: 1400px;
-	right: 190px;
+	top: 1300px;
+	right: 100px;
 	display: block;
 }
-#pic10{
+#fan10{
 	position:absolute;
-	top: 2000px;
-	left: 100px;
+	top: 1900px;
+	left: 130px;
 	display: block;
 }
-#pic11{
+#fan11{
 	margin-left: auto;
 	margin-right: auto;
 	position: absolute;
-	top: 2000px;
-	left: 590px;
+	top: 1900px;
+	left: 600px;
 	display: block;
 }
 body{
